@@ -32,8 +32,8 @@ int main()
         }
 
 
-        for(int l=0; l<numlength; l++){
-            numtobechecked[l]=numtobecheckedstring[l]-'0';
+        for(int m=0; m<numlength; m++){
+            numtobechecked[m]=numtobecheckedstring[m]-'0';
             //here, we convert it to an integer which is easier to work with and eliminates that'/0'
         }
         int j;
