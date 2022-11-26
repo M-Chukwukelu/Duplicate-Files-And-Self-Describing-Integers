@@ -76,7 +76,7 @@ int main()
                 if(result != 'n'){
                     if((othercases[length-1]-'0') < correctfileids[0]){
                         correctfileids[0] = othercases[length-1]-'0';
-                        printf(">>>>%d\n", correctfileids[0]);
+        
                     }
                 }
                 else{
