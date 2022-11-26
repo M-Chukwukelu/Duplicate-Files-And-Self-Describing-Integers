@@ -80,9 +80,9 @@ int main()
                     }
                 }
                 else{
-                char fileid = othercases[length-1]-'0';
-                correctfileids[value]=fileid;
-                value++;
+                    char fileid = othercases[length-1]-'0';
+                    correctfileids[value]=fileid;
+                    value++;
                 }
             }
 
